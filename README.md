@@ -1,2 +1,2 @@
 # Plain-Vanilla
- Strategies, Arbitrage and options pricing
+ Options Strategies, Arbitrage and options pricing
